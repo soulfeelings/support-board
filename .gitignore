@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+tsconfig.tsbuildinfo
+
+# материалы интервьюера — никогда не коммитить
+INTERVIEWER.md
+RUBRIC.md
+*.interviewer.md
